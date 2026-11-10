@@ -1,0 +1,10 @@
+# Build output
+obj/
+lib/
+codec
+html/
+latex/
+
+# Editor / OS files
+.DS_Store
+.vscode/
